@@ -13,6 +13,9 @@ biru = '\x1b[1;94m'
 merah = '\x1b[1;91m'
 gelap = '\x1b[0;37m'
 
+print 'script dalam maintenance'
+sys,exit()
+
 h = '\x1b[1;92m'
 c = '\x1b[1;96m'
 k = '\x1b[1;93m'
