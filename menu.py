@@ -70,7 +70,7 @@ def main():
 
 	elif ab =='4' or ab =='04': #callv1
                 os.system('cd data1')
-                os.system('python2 call1.py')
+                os.system('sh call1.sh')
 
 	elif ab =='5' or ab =='05': #encript bash
                 os.system('cd data1')
