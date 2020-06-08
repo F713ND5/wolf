@@ -1,3 +1,69 @@
-z="
-";gz=' ╦ ╦';WCz='ilih';LCz='DA';LBz='  \(';RCz=' -n ';GDz='php ';OBz=' Aut';ACz='ENCR';WBz='U   ';eDz='$p]$';Lz='34;1';Tz='0;37';HBz='/$m ';vz='/ .\';Qz='p="\';Sz='o="\';DDz='py';wBz=' CAL';dDz='[$m!';Ez='m="\';yBz='05$p';CBz=' └─┘';Kz='b="\';MDz='all1';rz='  ├┤';lBz='02$p';fCz='] ||';DBz='─┘└─';Hz='32;1';ODz='= "5';TCz='$m!$';gBz='OL S';iz='  ┌─';OCz=' TOO';eCz='"1" ';oCz='pyth';CDz='lub.';XDz='"07"';ZCz=' bcs';lz='┐';NDz='.sh';Fz='31;1';kz='╗┌─┐';FDz='"03"';RDz='ipt.';mz='/   ';Zz='k---';fz=' $c ';fBz='TOMB';lCz='en';mBz='SPAM';TBz='T7-C';QBz='$m :';uz='  └─';jBz='ERMU';Cz='30;1';QCz='"';KCz='P AN';aBz='.00';Vz='r';NCz='EXIT';pCz='on2 ';hBz='PESI';Yz='$m+$';eBz=']$h ';dz=' /\_';VBz='$o  ';qz='│ ││';ADz='then';MCz='00$p';WDz='= "7';cBz='${m}';sz='───║';MBz='o)/ ';kBz='X';ez='__/\';XBz=' Ver';UDz='mars';tz=' │ │';cDz=' "$p';GBz=' | /';Jz='33;1';xCz='"02"';Wz='echo';tBz='03$p';uBz=' TRI';Uz='clea';RBz='$r T';az='----';yCz=' ]; ';Iz='k="\';fDz='m Pi';JDz='= "4';mDz='enu.';cCz=' $bc';CCz='BASH';UCz='p] $';nz='    ';yz='└─┘┴';FBz='\\ |';Nz='35;1';sBz=')';dBz='01$p';uCz='= "2';aDz='exit';IDz='php';vBz='04$p';mCz='cd d';SBz='n.Yu';EDz='= "3';wz=' /. ';XCz='$k "';JCz='AT I';gDz='lih ';iDz=' ben';sCz='y';jDz='er$b';pz=' ║║║';QDz='encr';bCz='if [';SDz='= "6';ICz='ALAM';qCz='tomb';BBz='   ╩';Gz='h="\';nBz=' SMS';rCz='ol.p';hDz='yang';GCz='07$p';hCz='bcs ';iBz='AL T';Bz='033[';hz='┌─┐┬';iCz='= "0';Rz='37;1';ZBz='$h 1';nCz='ata1';kDz='..."';kCz='; th';rBz='nli ';cz='$a  ';EBz='┘';tCz='elif';VDz='hal.';oBz=' MAP';jCz='1" ]';qBz=' ( u';PBz='hor ';xz=' ╚╩╝';aCz=';';YBz='sion';gCz=' [ $';vCz='" ] ';bDz='else';lDz='sh m';VCz='{b}P';xBz='L v1';PDz='"05"';YDz='ip.p';nDz='sh';dCz='s = ';TDz='"06"';Mz='r="\';PCz='LS';ECz='MARS';BCz='YPT ';oDz='fi';NBz=' $p ';LDz='sh c';FCz='HAL';BDz='mapc';DCz='06$p';Pz='36;1';Dz='m"';jz='┐ ╔╦';Oz='c="\';KBz='m+';bBz='$p [';bz='-$m+';ZDz='"00"';IBz=' +$b';KDz='"04"';wCz='|| [';UBz='rAb';ABz='─┘└ ';HCz='CEK ';pBz='CLUB';Xz=' "';HDz='tri.';SCz='"$p[';oz='\ $c';JBz='---$';Az='a="\';YCz='read';
-eval "$Az$Bz$Cz$Dz$z$Ez$Bz$Fz$Dz$z$Gz$Bz$Hz$Dz$z$Iz$Bz$Jz$Dz$z$Kz$Bz$Lz$Dz$z$Mz$Bz$Nz$Dz$z$Oz$Bz$Pz$Dz$z$Qz$Bz$Rz$Dz$z$Sz$Bz$Tz$Dz$z$Uz$Vz$z$Wz$Xz$z$Yz$Zz$az$az$az$az$az$az$az$az$az$bz$z$cz$dz$ez$fz$gz$hz$iz$jz$kz$hz$iz$lz$z$cz$mz$nz$oz$pz$qz$rz$sz$tz$qz$uz$lz$z$cz$vz$wz$oz$xz$yz$ABz$BBz$CBz$yz$DBz$EBz$z$cz$FBz$GBz$HBz$IBz$az$az$az$az$az$az$JBz$KBz$z$cz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$z$VBz$nz$WBz$NBz$XBz$YBz$QBz$ZBz$aBz$z$Yz$Zz$az$az$az$az$az$az$az$az$az$bz$z$bBz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$z$bBz$cBz$lBz$eBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$z$bBz$cBz$tBz$eBz$mBz$nBz$uBz$qBz$rBz$sBz$z$bBz$cBz$vBz$eBz$mBz$wBz$xBz$z$bBz$cBz$yBz$eBz$ACz$BCz$CCz$z$bBz$cBz$DCz$eBz$ACz$BCz$ECz$FCz$z$bBz$cBz$GCz$eBz$HCz$ICz$JCz$KCz$LCz$z$bBz$cBz$MCz$eBz$NCz$OCz$PCz$z$QCz$z$Wz$RCz$SCz$TCz$UCz$VCz$WCz$QBz$XCz$z$YCz$ZCz$aCz$z$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$lCz$z$mCz$nCz$z$oCz$pCz$qCz$rCz$sCz$z$tCz$gCz$hCz$uCz$vCz$wCz$cCz$dCz$xCz$yCz$ADz$z$mCz$nCz$z$oCz$pCz$BDz$CDz$DDz$z$tCz$gCz$hCz$EDz$vCz$wCz$cCz$dCz$FDz$yCz$ADz$z$mCz$nCz$z$GDz$HDz$IDz$z$tCz$gCz$hCz$JDz$vCz$wCz$cCz$dCz$KDz$yCz$ADz$z$mCz$nCz$z$LDz$MDz$NDz$z$tCz$gCz$hCz$ODz$vCz$wCz$cCz$dCz$PDz$yCz$ADz$z$mCz$nCz$z$oCz$pCz$QDz$RDz$DDz$z$tCz$gCz$hCz$SDz$vCz$wCz$cCz$dCz$TDz$yCz$ADz$z$mCz$nCz$z$oCz$pCz$UDz$VDz$DDz$z$tCz$gCz$hCz$WDz$vCz$wCz$cCz$dCz$XDz$yCz$ADz$z$mCz$nCz$z$oCz$pCz$YDz$sCz$z$tCz$gCz$hCz$iCz$vCz$wCz$cCz$dCz$ZDz$yCz$ADz$z$aDz$z$bDz$z$Wz$cDz$dDz$eDz$fDz$gDz$hDz$iDz$jDz$kDz$z$lDz$mDz$nDz$z$oDz"
+a="\033[30;1m"
+m="\033[31;1m"
+h="\033[32;1m"
+k="\033[33;1m"
+b="\033[34;1m"
+r="\033[35;1m"
+c="\033[36;1m"
+p="\033[37;1m"
+o="\033[0;37m"
+
+
+clear
+echo "
+$m+$k----------------------------------------$m+
+$a   /\___/\ $c  ╦ ╦┌─┐┬  ┌─┐ ╔╦╗┌─┐┌─┐┬  ┌─┐
+$a  /       \ $c ║║║│ ││  ├┤───║ │ ││ ││  └─┐
+$a  / .\ /. \ $c ╚╩╝└─┘┴─┘└    ╩ └─┘└─┘┴─┘└─┘
+$a  \\ | | //$m  +$b---------------------------$m+
+$a    \(o)/  $p  Author $m :$r Tn.YuT7-CrAb
+$o      U    $p  Version$m :$h 1.00
+$m+$k----------------------------------------$m+
+
+$p [${m}01$p]$h TOMBOL SPESIAL TERMUX
+$p [${m}02$p]$h SPAM SMS MAPCLUB ( unli )
+$p [${m}03$p]$h SPAM SMS TRI ( unli )
+$p [${m}04$p]$h SPAM CALL v1
+$p [${m}05$p]$h ENCRYPT BASH
+$p [${m}06$p]$h ENCRYPT MARSHAL
+$p [${m}07$p]$h CEK ALAMAT IP ANDA
+$p [${m}00$p]$h EXIT TOOLS
+"
+echo -n "$p[$m!$p] ${b}Pilih$m :$k "
+read bcs;
+
+if [ $bcs = "1" ] || [ $bcs = "01" ]; then
+cd data1
+python2 tombol.py
+
+elif [ $bcs = "2" ] || [ $bcs = "02" ]; then
+cd data1
+python2 mapclub.py
+
+elif [ $bcs = "3" ] || [ $bcs = "03" ]; then
+cd data1
+php tri.php
+
+elif [ $bcs = "4" ] || [ $bcs = "04" ]; then
+cd data1
+sh call1.sh
+
+elif [ $bcs = "5" ] || [ $bcs = "05" ]; then
+cd data1
+python2 encript.py
+
+elif [ $bcs = "6" ] || [ $bcs = "06" ]; then
+cd data1
+python2 marshal.py
+
+elif [ $bcs = "7" ] || [ $bcs = "07" ]; then
+cd data1
+python2 ip.py
+
+elif [ $bcs = "0" ] || [ $bcs = "00" ]; then
+exit
+
+else
+echo "$p[$m!$p]$m Pilih yang bener$b..."
+sh menu.sh
+fi
